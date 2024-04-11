@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fYPU9v4mj5qfa7VSLt/HaRuO4211WJ/ssd1PvPKyeU8=",
+  "Source": "primaira-api",
+  "BasePath": "_content/primaira-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
